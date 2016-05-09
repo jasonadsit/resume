@@ -7,7 +7,7 @@
 **{ NGB J36 | DHS | ICS-CERT | USCYBERCOM | CTIIC | DISA | NSA/CSS | ARCYBER }**  
 I’m looking for my next step in network security and cyber operations. I am a highly motivated geek with a passion for the internet. I enjoy breaking things. I love forensics. I want to work on a larger part of the national cyber mission.  
 ## Experience  
-**Cyber Defense Technician, MIL, SSG/E6, 25B30**  
+### Cyber Defense Technician, MIL, SSG/E6, 25B30  
 11/2013-Present (30 Months), ORNG, Defensive Cyber Operations Element (DCOE)  
 * Cyberspace Operations Planning, DCEO, DCO-IDM, OCEO  
 * Cyber Exercise Design  
@@ -19,7 +19,7 @@ I’m looking for my next step in network security and cyber operations. I am a 
 * Forensics, Firmware Reversing, Carving  
 * Interface with individuals or groups from outside the agency, including consultants, contractors, vendors, or representatives of professional associations, the media, or public interest groups, in moderately unstructured settings.  
 * Influence and persuade employees and managers to accept and implement findings and recommendations.  
-**Hacker at Large, CIV**  
+### Hacker at Large, CIV  
 3/2002-Present (170 Months), The Internet  
 * BootKit Development  
 * Independently plans, designs, and carries out the work to be done  
@@ -27,7 +27,7 @@ I’m looking for my next step in network security and cyber operations. I am a 
 * Network intrusion and exploitation  
 * Google Dorking / Google-Fu, Data Mining  
 * Media malware analysis  
-**Network Engineer, TECH, GS-2210-12**  
+### Network Engineer, TECH, GS-2210-12  
 6/2012-Present (46 Months), Oregon Army National Guard, J6/DCSIM, NOC  
 * Apply IT security principles and methods  
 * Plan and perform systems administration tasks spanning multiple IT disciplines  
@@ -44,25 +44,24 @@ I’m looking for my next step in network security and cyber operations. I am a 
 * Pretty good with the CERT NetSA Suite  
 * NSM/SIEM (Security Onion)  
 * Frequently interprets regulations on his/her own initiative, applies new methods to resolve complex and/or intricate, controversial, or unprecedented issues and problems, and resolves most of the conflicts that arise.  
-**Senior Information Systems Specialist, MIL, SGT/E5, 25B20**  
+### Senior Information Systems Specialist, MIL, SGT/E5, 25B20  
 7/2011 – 11/2013 (40 Months), C/STB 41 IBCT  
 * WIN-T, Systems Administration, Network Engineering, Monitoring  
 * Affect the availability of systems used by employees at all levels in the organization to effectively accomplish critical business processes.  
 * Net Tech for the Brigade Net-Ops Section  
-**Electronic Warfare Officer / Combat Engineer, MIL, SGT/E5, 12B20**  
+### Electronic Warfare Officer / Combat Engineer, MIL, SGT/E5, 12B20  
 11/2009-11/2010 (12 Months), TF Thor, JTF Paladin  
 * Install electronic warfare hardware, firmware, and threat loads for the DUKE II, DUKE III, CVRJ, and MMBJ jamming systems.  
 * Calibrate and operate a spectral analyzer to insure jamming accuracy  
 * Managed Backup and restore operations as well as disaster recovery for Thor 3  
 ## Military Service  
-**CONUS**  
+### CONUS  
 * 05/2000 – 05/2006, Oregon Army National Guard, 6 Year Enlistment  
 * 07/2007 – 07/2013, Oregon Army National Guard, 6 Year Enlistment  
 * 07/2013 – Present, Oregon Army National Guard, 6 Year Enlistment  
-**OCONUS**  
+### OCONUS  
 * 11/2009 – 11/2010, OEF, JTF Paladin, RC South, Afghanistan  
 ## Civilian Education  
-**03/2005 - Present, Chemeketa Community College**  
 * 97 Credits of General Education  
 ## Military Education  
 * 640 Hours - WLC, 25B MOSQ, and Others  
