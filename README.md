@@ -67,10 +67,10 @@
 *	Calibrate and operate a spectral analyzer to insure jamming accuracy  
 *	Managed Backup and restore operations as well as disaster recovery for Thor 3  
   
-Call me  
+**Call me**  
   
 ![](https://raw.githubusercontent.com/jasonadsit/resume/master/callme.png)  
   
-Add my full contact card  
+**Add my full contact card**  
   
 ![](https://raw.githubusercontent.com/jasonadsit/resume/master/adsit-vcard.png)  
