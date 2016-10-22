@@ -1,8 +1,9 @@
-# [Jason Adsit](https://raw.githubusercontent.com/jasonadsit/resume/master/resume.pdf)  
-**[jason.l.adsit@gmail.com](mailto:jason.l.adsit@gmail.com)**  
+# [Jason Adsit](https://www.linkedin.com/in/jasonadsit/)  
+**[497 Welcome Ct. SE, Salem, OR 97302](https://www.google.com/maps/place/44°53'40.5%22N+123°02'39.3%22W/@44.8945667,-123.0442626,19z)**  
 **[503-949-2493](tel:5039492493)**  
-**[jason.l.adsit.mil@mail.mil](mailto:jason.l.adsit.mil@mail.mil)**  
+**[jason.l.adsit@gmail.com](mailto:jason.l.adsit@gmail.com)**  
 **[503-584-3945](tel:5035843945)**  
+**[jason.l.adsit.mil@mail.mil](mailto:jason.l.adsit.mil@mail.mil)**  
   
 **6/2016-Present, Lead Systems Engineer, Oregon Military Department**  
 Full-Stack Systems Engineering &#124; IT Service Management &#124; Infrastructure Lifecycle Management &#124; Budget Planning &#124; Automation and Orchestration &#124; PowerShell &#124; VMware &#124; Linux &#124; DevOps Culture &#124; Cybersecurity &#124; Workforce Development &#124; Human Capital Management &#124; Mentorship &#124; Change Leadership  
