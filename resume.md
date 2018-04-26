@@ -5,7 +5,7 @@
 **[503-584-3945](tel:5035843945)**  
 **[jason.l.adsit.mil@mail.mil](mailto:jason.l.adsit.mil@mail.mil)**  
   
-**6/2016-Present, Lead Systems Engineer, Oregon Military Department**  
+**6/2016-Present, Senior Systems Engineer, Oregon Military Department**  
 Full-Stack Systems Engineering &#124; IT Service Management &#124; Infrastructure Lifecycle Management &#124; Budget Planning &#124; Automation and Orchestration &#124; PowerShell &#124; VMware &#124; Linux &#124; DevOps Culture &#124; Cybersecurity &#124; Workforce Development &#124; Human Capital Management &#124; Mentorship &#124; Change Leadership  
 * Oregon National Guard liaison to the Oregon Titan Fusion Center’s IT Sector Working Group  
   
@@ -63,5 +63,5 @@ Determine Objectives &#124; Set Priorities &#124; Delegate Work &#124; Negotiate
 Scan This to Save My Contact Card  
   
   
-![](https://raw.githubusercontent.com/jasonadsit/resume/master/adsit-vcard.png)  
+![](https://jasonadsit.github.io/adsit-vcard.png)  
   
