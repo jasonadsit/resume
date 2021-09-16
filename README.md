@@ -7,19 +7,19 @@
 **[jason.adsit@oregon.gov](mailto:jason.adsit@oregon.gov)**
 
 **11/2018-Present, Cybersecurity Assessor, State of Oregon**
-Vulnerability Assessment &#124; Penetration Testing &#124; Threat Emulation &#124; Risk Analysis &#124; Governance, Risk, and Compliance &#124; Azure AD &#124; SCAP &#124; CIS Controls &#124; Nessus Pro and Tenable.sc &#124; PowerShell &#124; Data Analysis &#124; Research &#124; Team Lead &#124; AppSec &#124; OSINT &#124; Forensics &#124; Pretexting
+Vulnerability Assessment &#124; Penetration Testing &#124; Threat Emulation &#124; Risk Analysis &#124; Governance, Risk, and Compliance &#124; Azure AD &#124; SCAP &#124; CIS Controls &#124; Nessus Pro and Tenable.sc &#124; PowerShell &#124; Data Analysis &#124; Research &#124; Team Lead &#124; AppSec &#124; OSINT &#124; Forensics &#124; Pretexting &#124; ServiceNow IRM &#124; JavaScript &#124; DevSecOps &#124; Developer Outreach &#124; SIEM &#124; Tool Development
 
 * Liaison to the Oregon Titan Fusion Center’s IT Sector Working Group
 
 **11/2013-Present, Cyber Operations NCO, Oregon Army National Guard**
-Cyberspace Operations Planning &#124; Cyber Exercise Design &#124; Incident Response &#124; Design and build VMs for DoD Cybersecurity Range &#124; Kali and Security Onion Instructor &#124; Use judgment, initiative, and resourcefulness in deviating from established methods to develop new methods and criteria &#124; Forensics &#124; Firmware Reversing &#124; Conduct Vulnerability Assessments &#124; Interface with individuals or groups from outside the agency, including consultants, contractors, vendors, or representatives of professional associations, the media, or public interest groups, in moderately unstructured settings. &#124; Influence and persuade employees and managers to accept and implement findings and recommendations. &#124; ETL Pipelines &#124; Data Engineering
+Cyberspace Operations Planning &#124; Cyber Exercise Design &#124; Incident Response &#124; Design and build VMs for DoD Cybersecurity Range &#124; Kali and Security Onion Instructor &#124; Use judgment, initiative, and resourcefulness in deviating from established methods to develop new methods and criteria &#124; Forensics &#124; Firmware Reversing &#124; Conduct Vulnerability Assessments &#124; Interface with individuals or groups from outside the agency, including consultants, contractors, vendors, or representatives of professional associations, the media, or public interest groups, in moderately unstructured settings. &#124; Influence and persuade employees and managers to accept and implement findings and recommendations. &#124; ETL Pipelines &#124; Data Engineering &#124; Assess Employee Performance &#124; Business Intelligence &#124; Power BI &#124; Telemetry &#124; Observability
 
 * Selected by National Guard Bureau as a SME for their Cyber Capabilities Based Assessment
 * Selected by USCYBERCOM as team top performer for exercise Cyber Guard 2014
 * Principal coordinator and facilitator for cybersecurity efforts with external entities
 
 **3/2002-Present, Hacker, The Internet**
-BootKit Development &#124; Espionage &#124; Covert Communication &#124; DarkNet Ops (Tor, i2p, ZeroNet, dn42, etc.) &#124; Subterfuge &#124; Network Intrusion and Exploitation &#124; Infiltration &#124; Google Dorking / Google-Fu, Data Mining &#124; Deception &#124; Media Malware Analysis &#124; Firmware Reverse Engineering &#124; Information Warfare &#124; Subversion &#124; Operational Security &#124; Polyglot file format research
+BootKit Development &#124; Espionage &#124; Covert Communication &#124; DarkNet Ops (Tor, i2p, ZeroNet, dn42, etc.) &#124; Subterfuge &#124; Network Intrusion and Exploitation &#124; Infiltration &#124; Google Dorking / Google-Fu, Data Mining &#124; Deception &#124; Media Malware Analysis &#124; Firmware Reverse Engineering &#124; Information Warfare &#124; Subversion &#124; Operational Security &#124; Polyglot file format research &#124; Data Engineering
 
 * I’ve been both fired and hired for hacking various things
 * I’ve never been convicted of a computer crime
