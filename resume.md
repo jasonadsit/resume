@@ -1,8 +1,10 @@
 # [Jason Adsit](https://www.linkedin.com/in/jasonadsit/)
 
 **[497 Welcome Ct. SE, Salem, OR 97302](https://www.google.com/maps/place/44°53'40.5%22N+123°02'39.3%22W/@44.8945667,-123.0442626,19z)**
+
 **[503-949-2493](tel:5039492493)**
 **[jason.l.adsit@gmail.com](mailto:jason.l.adsit@gmail.com)**
+
 **[503-934-0381](tel:9719007326)**
 **[jason.adsit@das.oregon.gov](mailto:jason.adsit@das.oregon.gov)**
 
