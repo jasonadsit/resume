@@ -2,22 +2,26 @@ Jason Adsit
 Home - 497 Welcome Ct. SE, Salem, OR 97302 | (503) 949-2493 | jason.l.adsit@gmail.com
 Work - 680 Cottage St NE, Salem, OR 97301 | (971) 900-7326 | jason.adsit@das.oregon.gov
 
-11/2018-Present, Cybersecurity Assessor, State of Oregon
-Leadership | Vulnerability Assessment | Penetration Testing | Threat Emulation | Risk Analysis | Governance, Risk, and Compliance | Azure AD | SCAP | CIS Controls | Nessus Pro and Tenable.sc | PowerShell | Data Analysis | Research | Team Lead | AppSec | OSINT | Forensics | Pretexting | RSA Archer IRM | JavaScript | DevSecOps | Developer Outreach | SIEM | Tool Development
+7/2022-Present, Risk Manager, State of Oregon
+Supervise a team of five cybersecurity assessors | Vulnerability Assessment | Workforce Development | Risk Analysis | Governance, Risk, and Compliance | Performance Review | Data Analysis | Research | Archer IRM | Budget | Leadership | PowerShell
 • Liaison to the Oregon Titan Fusion Center’s IT Sector Working Group
-• Oregon Threat Information Gathering and Election Resources (TIGER) Team
 • CISA qualified to conduct Risk and Vulnerability Assessments (RVA)
 
-3/2002-Present, Hacker, The Internet
-Web Application Security | BootKit Development | Covert Communication | DarkNet Ops (Tor, i2p, ZeroNet, dn42, etc.) | Subterfuge | Network Intrusion and Exploitation | Infiltration | Google Dorking / Google-Fu, Data Mining | Malware Analysis | Firmware Reverse Engineering | Information Warfare | Subversion | Operational Security | Polyglot file format research | Data Engineering
-• I challenge the assumptions, build the community, teach the interested, and hack the culture
-• I’ve never been convicted of a computer crime
+11/2018-7/2022, Cybersecurity Assessor, State of Oregon
+Vulnerability Assessment | Penetration Testing | CISA CQI/RVA Qualified | Threat Emulation | Risk Analysis | Governance, Risk, and Compliance | Azure AD | SCAP | CIS Controls | Nessus Pro and Tenable.sc | PowerShell | Data Analysis | Research | Team Lead | AppSec | OSINT | Forensics | Pretexting | ServiceNow IRM | JavaScript | DevSecOps | Developer Outreach | SIEM | Tool Development
+• Liaison to the Oregon Titan Fusion Center’s IT Sector Working Group
+• Oregon Threat Information Gathering and Election Resources (TIGER) Team
 
 11/2013-1/2022, Cyber Operations NCO, Oregon Army National Guard
 Cyberspace Operations Planning | Cyber Exercise Design | Incident Response | Design and build VMs for DoD Cybersecurity Range | Kali and Security Onion Instructor | Use judgment, initiative, and resourcefulness in deviating from established methods to develop new methods and criteria | Forensics | Firmware Reversing | Conduct Vulnerability Assessments | Interface with individuals or groups from outside the agency, including consultants, contractors, vendors, or representatives of professional associations, the media, or public interest groups, in moderately unstructured settings. | Influence and persuade employees and managers to accept and implement findings and recommendations. | ETL Pipelines | Data Engineering | Assess Employee Performance | Business Intelligence | Power BI | Telemetry | Observability
 • Selected by National Guard Bureau as a SME for their Cyber Capabilities Based Assessment
 • Selected by USCYBERCOM as team top performer for exercise Cyber Guard 2014
 • Principal coordinator and facilitator for cybersecurity efforts with external entities
+
+3/2002-Present, Hacker, The Internet
+BootKit Development | Espionage | Covert Communication | DarkNet Ops (Tor, i2p, ZeroNet, dn42, etc.) | Subterfuge | Network Intrusion and Exploitation | Infiltration | Google Dorking / Google-Fu, Data Mining | Deception | Media Malware Analysis | Firmware Reverse Engineering | Information Warfare | Subversion | Operational Security | Polyglot file format research | Data Engineering
+• I’ve been both fired and hired for hacking various things
+• I’ve never been convicted of a computer crime
 
 6/2016-11/2018, Senior Systems Engineer, Oregon Military Department
 Full-Stack Systems Engineering | IT Service Management | Infrastructure Lifecycle Management | Budget Planning | Automation and Orchestration | PowerShell | VMware | Linux | DevOps Culture | Cybersecurity | Workforce Development | Human Capital Management | Mentorship | Change Leadership
