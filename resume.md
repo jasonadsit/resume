@@ -4,7 +4,7 @@
 
 **Work: [503-934-0381](tel:9719007326)** &#124; **[jason.adsit@das.oregon.gov](mailto:jason.adsit@das.oregon.gov)**
 
-**7/2022-Present, Risk Manager, State of Oregon**
+**7/2022-Present, Cybersecurity Assessment Manager, State of Oregon**
 
 Supervise a team of five cybersecurity assessors &#124; Vulnerability Assessment &#124; Workforce Development &#124; Risk Analysis &#124; Governance, Risk, and Compliance &#124; Performance Review &#124; Data Analysis &#124; Research &#124; Archer IRM &#124; Budget &#124; Leadership &#124; PowerShell &#124; Plan and execute the assessment schedule for all agencies, boards, and commissions in the executive branch
 
